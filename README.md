@@ -1,5 +1,5 @@
 
-# This is a heading 
+# Heading 1
 
 this is the first repository that i have made
 
